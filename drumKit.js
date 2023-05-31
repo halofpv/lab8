@@ -48,7 +48,7 @@ function sound(key) {
             break;
 
         case "l":
-            var sound7 = new Audio('music/l.mp3');
+            var sound7 = new Audio('crash.mp3');
             sound7.play();
             break;
 
